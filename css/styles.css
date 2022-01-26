@@ -1,0 +1,25 @@
+.titlehere
+    {
+        text-align:center;
+    }
+body {
+        background-color: Black;}
+H1 {
+        color:rgb(141, 60, 207);}
+div {
+        color:lightskyblue;
+        font-family:Verdana;}
+.image 
+       {border-style:ridge;
+        border-width:15px;
+        border-color:rgb(141, 60, 207);}
+.aboutme
+        {font-family:papyrus;
+        border-style:dotted;
+        border-color:rgb(141, 60, 207);
+        font-size:16pt}
+.my-projects
+    {
+        text-align:center;
+        line-height: 3.0em;
+    }
